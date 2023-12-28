@@ -1,8 +1,8 @@
 ***************TestPlan1-SystemOne-Web***************
 Following are the major task done :
 
-1.Implment Page Object Model
-2.Impeelment Test NG 
+1.Implement Page Object Model
+2.Impelment Test NG 
 3.Integrate Data Provider
 4.Integrate Assertion
 5.Add proper exceptions
